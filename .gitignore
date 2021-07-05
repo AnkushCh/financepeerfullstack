@@ -3,3 +3,4 @@ __pycache__/
 /sys.py
 /media/
 /users_data.txt
+.gitignore
