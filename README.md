@@ -7,7 +7,7 @@
 
 **How to run this project**
 
-- download this project using : 
+- download this project using : `git clone https://github.com/AnkushCh/financepeerfullstack.git`
 - download the project dependencies using `pip install -r requirements.txt`
 - Go to the project directory `cd webproject`
 - Run the server using the command `python manage.py runserver`
