@@ -2,7 +2,7 @@
 
 **This projects includes the features like:**
 - User Authentications login logout
-- upload json file 
+- upload json file(only json file)
 - Show json data in table form
 
 **How to run this project**
