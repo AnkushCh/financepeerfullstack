@@ -4,6 +4,7 @@
 - User Authentications login logout
 - upload json file(only json file)
 - Show json data in table form
+- Postgresql is used for storing data
 
 **How to run this project**
 
@@ -12,9 +13,11 @@
 - Go to the project directory `cd webproject`
 - Run the server using the command `python manage.py runserver`
 - Server will run at address `http://127.0.0.1:8000`
-- upload json file
-- Go back to main directory and then go to frontend directory `cd frontend`
+- Goto frontend directory `cd frontend`
 - Run the npm server `npm start`
 - login to sytem using credentials:
   - User Name: `ankush`
   - Password: `1234`
+  - upload json data file from 'http://localhost:3000/upload`
+  - Try to refresh/re-login if data is not displayed.
+  - 
