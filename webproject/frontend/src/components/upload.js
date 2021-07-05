@@ -64,7 +64,7 @@ class Upload extends Component {
                     <form onSubmit={this.handleSubmit} encType="multipart/form-data">
                         <label>
                             File:
-                            <input type="file" name="file" required id="id_file" value={this.state.username} onChange={this.handleChange} />
+                            <input type="file" name="file" accept = ".json" required id="id_file" value={this.state.username} onChange={this.handleChange} />
 
                         </label>
                         <input type="submit" value="Submit" />
