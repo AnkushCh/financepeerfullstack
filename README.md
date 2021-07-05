@@ -18,6 +18,6 @@
 - login to sytem using credentials:
   - User Name: `ankush`
   - Password: `1234`
-  - upload json data file from 'http://localhost:3000/upload`
-  - Try to refresh/re-login if data is not displayed.
-  - 
+-upload json data file from 'http://localhost:3000/upload`
+-Try to refresh/re-login if data is not displayed
+ 
